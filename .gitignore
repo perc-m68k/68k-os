@@ -1,2 +1,4 @@
 *.h68
 *.lis
+out
+build
